@@ -3,7 +3,7 @@ package jar;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
-
+//adding comments
 public class HelloMavenTest {
 	
 	
